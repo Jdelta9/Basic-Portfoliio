@@ -154,7 +154,7 @@ h3, h2 {
   opacity: 0.8;
 }
 
-.work h3 {
+/* .work h3 {
   position: absolute;
   bottom: 1px;
   width: 100%;
@@ -166,8 +166,8 @@ h3, h2 {
   text-align: center;
   background: #aa4a94;
   border-bottom: 0;
-}
-  .btnStack h3{
+} */
+  .btnWork h3{
   font-family: 'Baloo Bhai', cursive;
   background-color: #aa4a94;
   color: white;
@@ -191,7 +191,7 @@ h3, h2 {
   user-select: none;
 }
 
-a.btnStack:hover {
+a.btnWork:hover {
   background-color: #000;
 }
 
