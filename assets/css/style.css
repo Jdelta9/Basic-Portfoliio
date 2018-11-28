@@ -167,7 +167,7 @@ h3, h2 {
   background: #aa4a94;
   border-bottom: 0;
 } */
-  .btnWork {
+  .btnWork h3{
   font-family: 'Baloo Bhai', cursive;
   background-color: #aa4a94;
   color: white;
