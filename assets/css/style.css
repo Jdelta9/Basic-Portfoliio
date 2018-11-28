@@ -156,7 +156,7 @@ h3, h2 {
 
 .work h3 {
   position: absolute;
-  bottom: 20px;
+  bottom: 1px;
   width: 100%;
   padding: 15px;
   margin-bottom: 0;
@@ -167,6 +167,34 @@ h3, h2 {
   background: #aa4a94;
   border-bottom: 0;
 }
+  .btnStack h3{
+  font-family: 'Baloo Bhai', cursive;
+  background-color: #aa4a94;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+a.btnStack:hover {
+  background-color: #000;
+}
+
 
 .auth-image {
   float: left;
