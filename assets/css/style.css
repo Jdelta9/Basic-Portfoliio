@@ -191,7 +191,7 @@ h3, h2 {
   user-select: none;
 }
 
-a.btnWork h3:hover {
+a.btnWork:hover {
   background-color: lightblue;
 }
 
