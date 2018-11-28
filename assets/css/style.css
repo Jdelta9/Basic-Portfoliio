@@ -136,7 +136,7 @@ h3, h2 {
 
 /* portfolio page */
 
-.work {
+.btnWork {
   position: relative;
   float: left;
   width: 274px;
@@ -144,11 +144,11 @@ h3, h2 {
   overflow: auto;
 }
 
-.work:nth-child(even) {
+.btnWork:nth-child(even) {
   margin-right: 40px;
 }
 
-.work img {
+.btnWork img {
   width: 100%;
   border: 0 none;
   opacity: 0.8;
