@@ -169,13 +169,13 @@ h3, h2 {
 } */
   .btnWork h3{
   font-family: 'Baloo Bhai', cursive;
-  background-color: #aa4a94;
+  background-color: lightgray;
   color: white;
   text-decoration: none;
   display: inline-block;
-  padding: 6px 12px;
-  margin-bottom: 0;
-  font-size: 14px;
+  padding: 6px 48px;
+  /* margin-bottom: 0; */
+  font-size: 20px;
   font-weight: normal;
   line-height: 1.428571429;
   text-align: center;
@@ -191,8 +191,8 @@ h3, h2 {
   user-select: none;
 }
 
-a.btnWork:hover {
-  background-color: #000;
+a.btnWork h3:hover {
+  background-color: lightblue;
 }
 
 
